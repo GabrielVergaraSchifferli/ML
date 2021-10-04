@@ -1,0 +1,3 @@
+https://www.kaggle.com/mysarahmadbhat/lung-cancer
+https://www.kaggle.com/jiagengchang/dcpb1500
+https://www.kaggle.com/brendan45774/wine-quality
